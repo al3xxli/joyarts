@@ -1,0 +1,567 @@
+[
+  {
+    "id": "df",
+    "title": "Drawing Fundamentals",
+    "slug": "drawing-fundamentals",
+    "items": [
+      {
+        "file": "Drawing Fundamentals_01.jpg",
+        "alt": "Graphite portrait of a man with glasses",
+        "width": 1080,
+        "height": 1673,
+        "updatedAt": "2026-11-05T21:28:38Z"
+      },
+      {
+        "file": "Drawing Fundamentals_02.jpg",
+        "alt": "Pencil study of an elephant’s head",
+        "width": 1080,
+        "height": 1567,
+        "updatedAt": "2026-11-06T01:43:48Z"
+      },
+      {
+        "file": "Drawing Fundamentals_03.jpg",
+        "alt": "Fabric folds in graphite",
+        "width": 1080,
+        "height": 1140,
+        "updatedAt": "2026-11-06T01:43:30Z"
+      },
+      {
+        "file": "Drawing Fundamentals_04.jpg",
+        "alt": "Portrait of a young woman resting her chin on her hand",
+        "width": 1080,
+        "height": 1641,
+        "updatedAt": "2026-11-06T02:19:54Z"
+      },
+      {
+        "file": "Drawing Fundamentals_05.jpg",
+        "alt": "Still life with a bird figurine and glassware",
+        "width": 1080,
+        "height": 1616,
+        "updatedAt": "2026-11-06T02:19:36Z"
+      },
+      {
+        "file": "Drawing Fundamentals_06.jpg",
+        "alt": "Tiger in profile in tall grass",
+        "width": 1584,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:21:12Z"
+      },
+      {
+        "file": "Drawing Fundamentals_07.jpg",
+        "alt": "Tonal still life with vessels and figurines",
+        "width": 1704,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:19:40Z"
+      },
+      {
+        "file": "Drawing Fundamentals_08.jpg",
+        "alt": "Charcoal drawing of gathered figures",
+        "width": 1080,
+        "height": 1605,
+        "updatedAt": "2026-11-06T02:19:20Z"
+      }
+    ]
+  },
+  {
+    "id": "cd",
+    "title": "Creative Design",
+    "slug": "creative-design",
+    "items": [
+      {
+        "file": "Creative Design_01.jpg",
+        "alt": "Collage-like composition of two figures",
+        "width": 1080,
+        "height": 1631,
+        "updatedAt": "2026-11-06T01:43:24Z"
+      },
+      {
+        "file": "Creative Design_02.jpg",
+        "alt": "Illustrated figures surrounded by blue patterns",
+        "width": 1080,
+        "height": 1685,
+        "updatedAt": "2026-11-06T01:42:48Z"
+      },
+      {
+        "file": "Creative Design_03.jpg",
+        "alt": "Colourful architectural study of towers",
+        "width": 1080,
+        "height": 1348,
+        "updatedAt": "2026-11-06T01:43:34Z"
+      },
+      {
+        "file": "Creative Design_04.jpg",
+        "alt": "Detailed drawing of a city in motion",
+        "width": 1080,
+        "height": 1616,
+        "updatedAt": "2026-11-06T01:43:38Z"
+      },
+      {
+        "file": "Creative Design_05.jpg",
+        "alt": "Portrait surrounded by objects and patterns",
+        "width": 1080,
+        "height": 1244,
+        "updatedAt": "2026-11-06T02:21:26Z"
+      },
+      {
+        "file": "Creative Design_06.jpg",
+        "alt": "Surreal pencil drawing with a rhinoceros",
+        "width": 1584,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:20:58Z"
+      },
+      {
+        "file": "Creative Design_07.jpg",
+        "alt": "High-contrast study of folded forms",
+        "width": 1080,
+        "height": 1518,
+        "updatedAt": "2026-11-06T02:19:48Z"
+      },
+      {
+        "file": "Creative Design_08.jpg",
+        "alt": "Circular pattern around a bright blue sphere",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-06T02:19:58Z"
+      },
+      {
+        "file": "Creative Design_09.jpg",
+        "alt": "Portrait with glasses and a pink hat",
+        "width": 1080,
+        "height": 1618,
+        "updatedAt": "2026-11-06T02:20:02Z"
+      }
+    ]
+  },
+  {
+    "id": "pd",
+    "title": "Portfolio Development",
+    "slug": "portfolio-development",
+    "items": [
+      {
+        "file": "Portfolio Development_01.jpg",
+        "alt": "A leaping figure surrounded by oversized game pieces",
+        "width": 2277,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:43:14Z"
+      },
+      {
+        "file": "Portfolio Development_02.jpg",
+        "alt": "Seated figure framed by a red swirling shape",
+        "width": 1080,
+        "height": 1577,
+        "updatedAt": "2026-11-06T02:20:50Z"
+      },
+      {
+        "file": "Portfolio Development_03.jpg",
+        "alt": "Figures beneath a large sunlit wheel",
+        "width": 1080,
+        "height": 1533,
+        "updatedAt": "2026-11-06T02:20:40Z"
+      },
+      {
+        "file": "Portfolio Development_04.jpg",
+        "alt": "Architectural drawing of an arched interior",
+        "width": 1722,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:19:44Z"
+      },
+      {
+        "file": "Portfolio Development_05.jpg",
+        "alt": "Surreal graphite study of a reclining face",
+        "width": 1614,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:21:08Z"
+      }
+    ]
+  },
+  {
+    "id": "wp",
+    "title": "Watercolour Painting",
+    "slug": "watercolour-painting",
+    "items": [
+      {
+        "file": "Watercolour Painting_01.jpg",
+        "alt": "White birds beside a woodland stream",
+        "width": 1080,
+        "height": 1596,
+        "updatedAt": "2026-11-06T01:42:24Z"
+      },
+      {
+        "file": "Watercolour Painting_02.jpg",
+        "alt": "Winding path through a green valley",
+        "width": 929,
+        "height": 666,
+        "updatedAt": "2026-11-06T01:42:10Z"
+      },
+      {
+        "file": "Watercolour Painting_03.jpg",
+        "alt": "Flowering branch in soft washes",
+        "width": 1080,
+        "height": 1437,
+        "updatedAt": "2026-11-06T01:42:00Z"
+      },
+      {
+        "file": "Watercolour Painting_04.jpg",
+        "alt": "Blue bird overlooking a spring landscape",
+        "width": 1529,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:43:10Z"
+      },
+      {
+        "file": "Watercolour Painting_05.jpg",
+        "alt": "Floral still life beside a framed landscape",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-06T01:42:40Z"
+      }
+    ]
+  },
+  {
+    "id": "op",
+    "title": "Oil Painting",
+    "slug": "oil-painting",
+    "items": [
+      {
+        "file": "Oil Painting_01.jpg",
+        "alt": "Puppy with a golden bone among white flowers",
+        "width": 1080,
+        "height": 1459,
+        "updatedAt": "2026-11-06T01:42:20Z"
+      },
+      {
+        "file": "Oil Painting_02.jpg",
+        "alt": "Garden in front of a sunlit house",
+        "width": 1402,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:42:16Z"
+      },
+      {
+        "file": "Oil Painting_03.jpg",
+        "alt": "Sunflowers in a vase",
+        "width": 1080,
+        "height": 1346,
+        "updatedAt": "2026-11-06T01:42:44Z"
+      },
+      {
+        "file": "Oil Painting_04.jpg",
+        "alt": "Cattle resting under a tree",
+        "width": 1459,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:42:52Z"
+      },
+      {
+        "file": "Oil Painting_05.jpg",
+        "alt": "Waves beneath a pastel sunset",
+        "width": 1377,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:43:02Z"
+      },
+      {
+        "file": "Oil Painting_06.jpg",
+        "alt": "Fox in a field at sunset",
+        "width": 1080,
+        "height": 1354,
+        "updatedAt": "2026-11-06T01:43:06Z"
+      },
+      {
+        "file": "Oil Painting_07.jpg",
+        "alt": "Deer among slender woodland trees",
+        "width": 1384,
+        "height": 1080,
+        "updatedAt": "2026-11-06T01:43:20Z"
+      },
+      {
+        "file": "Oil Painting_08.jpg",
+        "alt": "Cottage and flowers in a vivid green garden",
+        "width": 1413,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:19:26Z"
+      },
+      {
+        "file": "Oil Painting_09.jpg",
+        "alt": "Horse running toward the viewer",
+        "width": 1044,
+        "height": 1422,
+        "updatedAt": "2026-11-06T02:29:10Z"
+      },
+      {
+        "file": "Oil Painting_010.jpg",
+        "alt": "Two monkeys nestled together",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-06T02:20:26Z"
+      },
+      {
+        "file": "Oil Painting_11.jpg",
+        "alt": "Close-up oil painting of pink and white flowers",
+        "width": 1441,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:21:22Z"
+      },
+      {
+        "file": "Oil Painting_12.jpg",
+        "alt": "Figure in blue surrounded by pale hair",
+        "width": 1080,
+        "height": 1439,
+        "updatedAt": "2026-11-06T02:21:04Z"
+      },
+      {
+        "file": "Oil Painting_13.jpg",
+        "alt": "Bouquet in a pale blue vase",
+        "width": 1080,
+        "height": 1383,
+        "updatedAt": "2026-11-06T02:20:54Z"
+      },
+      {
+        "file": "Oil Painting_14.jpg",
+        "alt": "Snowy mountains reflected in water",
+        "width": 1080,
+        "height": 1371,
+        "updatedAt": "2026-11-06T02:20:08Z"
+      }
+    ]
+  },
+  {
+    "id": "cp",
+    "title": "Coloured Pencil",
+    "slug": "coloured-pencil",
+    "items": [
+      {
+        "file": "Coloured Pencil_01.jpg",
+        "alt": "Spider-Man portrait against a blue background",
+        "width": 1080,
+        "height": 1685,
+        "updatedAt": "2026-11-06T01:42:58Z"
+      },
+      {
+        "file": "Coloured Pencil_02.jpg",
+        "alt": "Bird study mounted on a display easel",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-06T01:43:42Z"
+      },
+      {
+        "file": "Coloured Pencil_03.jpg",
+        "alt": "Brightly coloured animal scene",
+        "width": 1080,
+        "height": 1440,
+        "updatedAt": "2026-11-06T02:20:46Z"
+      },
+      {
+        "file": "Coloured Pencil_04.jpg",
+        "alt": "Rocky stream in a woodland landscape",
+        "width": 1080,
+        "height": 1755,
+        "updatedAt": "2026-11-06T02:20:32Z"
+      },
+      {
+        "file": "Coloured Pencil_05.jpg",
+        "alt": "Blue bird among objects and foliage",
+        "width": 1080,
+        "height": 1085,
+        "updatedAt": "2026-11-06T02:20:20Z"
+      },
+      {
+        "file": "Coloured Pencil_06.jpg",
+        "alt": "Red panda climbing a tree",
+        "width": 1080,
+        "height": 1439,
+        "updatedAt": "2026-11-06T02:20:12Z"
+      },
+      {
+        "file": "Coloured Pencil_07.jpg",
+        "alt": "Study after Girl with a Pearl Earring",
+        "width": 1080,
+        "height": 1411,
+        "updatedAt": "2026-11-06T02:21:16Z"
+      }
+    ]
+  },
+  {
+    "id": "ld",
+    "title": "Life Drawing",
+    "slug": "life-drawing",
+    "items": [
+      {
+        "file": "Life Drawing_01.jpg",
+        "alt": "Four expressive head studies",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "file": "Life Drawing_02.jpg",
+        "alt": "Blue pencil figure and gesture studies",
+        "width": 1080,
+        "height": 1431
+      },
+      {
+        "file": "Life Drawing_03.jpg",
+        "alt": "Two portrait studies",
+        "width": 1080,
+        "height": 1437
+      },
+      {
+        "file": "Life Drawing_04.jpg",
+        "alt": "Illustrated sketchbook page with a dancing figure",
+        "width": 952,
+        "height": 1249
+      },
+      {
+        "file": "Life Drawing_05.jpg",
+        "alt": "Seated figure surrounded by small sketches",
+        "width": 867,
+        "height": 1088
+      },
+      {
+        "file": "Life Drawing_06.jpg",
+        "alt": "Interior architectural sketch",
+        "width": 1080,
+        "height": 1443
+      },
+      {
+        "file": "Life Drawing_07.jpg",
+        "alt": "Colour sketch of a street corner",
+        "width": 1080,
+        "height": 1445
+      },
+      {
+        "file": "Life Drawing_08.jpg",
+        "alt": "Detailed drawing of a building beside water",
+        "width": 1557,
+        "height": 1080
+      },
+      {
+        "file": "Life Drawing_09.jpg",
+        "alt": "Page of expressive cartoon face studies",
+        "width": 1078,
+        "height": 1431
+      }
+    ]
+  },
+  {
+    "id": "outdoor",
+    "title": "Outdoor Painting Workshop",
+    "slug": "outdoor-painting-workshop",
+    "items": [
+      {
+        "file": "OUTDOOR PAINTING WORKSHOP_01.jpg",
+        "alt": "A landscape painting on an easel in the woods",
+        "width": 1920,
+        "height": 1080,
+        "updatedAt": "2026-11-05T21:29:20Z"
+      },
+      {
+        "file": "OUTDOOR PAINTING WORKSHOP_02.jpg",
+        "alt": "Students working at easels under the trees",
+        "width": 1080,
+        "height": 1439,
+        "updatedAt": "2026-11-05T21:29:24Z"
+      },
+      {
+        "file": "OUTDOOR PAINTING WORKSHOP_03.jpg",
+        "alt": "Artist drawing a tall tree canopy",
+        "width": 1080,
+        "height": 1676,
+        "updatedAt": "2026-11-05T21:29:12Z"
+      },
+      {
+        "file": "OUTDOOR PAINTING WORKSHOP_04.jpg",
+        "alt": "Outdoor painting of a stone building",
+        "width": 1441,
+        "height": 1080,
+        "updatedAt": "2026-11-06T02:19:32Z"
+      }
+    ]
+  },
+  {
+    "id": "community",
+    "title": "Art Exhibitions and Community",
+    "slug": "art-exhibitions-and-community",
+    "items": [
+      {
+        "file": "Art Exhibitions and Community_01.jpg",
+        "alt": "Boynton House Art Exhibition Space sign",
+        "width": 1080,
+        "height": 579,
+        "updatedAt": "2026-10-26T16:09:28Z"
+      },
+      {
+        "file": "Art Exhibitions and Community_02.jpg",
+        "alt": "Framed artwork on an exhibition easel",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-10-26T15:25:26Z"
+      },
+      {
+        "file": "Art Exhibitions and Community_03.jpg",
+        "alt": "Gallery wall filled with student artwork",
+        "width": 1440,
+        "height": 1080,
+        "updatedAt": "2026-11-05T21:28:42Z"
+      },
+      {
+        "file": "Art Exhibitions and Community_04.jpg",
+        "alt": "View across a light-filled exhibition room",
+        "width": 1440,
+        "height": 1080,
+        "updatedAt": "2026-10-26T15:24:22Z"
+      },
+      {
+        "file": "Art Exhibitions and Community_06.jpg",
+        "alt": "Students presenting together on a stage",
+        "width": 1440,
+        "height": 1080,
+        "updatedAt": "2026-10-26T15:23:48Z"
+      }
+    ]
+  },
+  {
+    "id": "leadership",
+    "title": "Student Leadership & Volunteering",
+    "slug": "student-leadership-volunteering",
+    "items": [
+      {
+        "file": "Student Leadership & Volunteering_01.jpg",
+        "alt": "Visitor viewing a student exhibition",
+        "width": 1440,
+        "height": 1080,
+        "updatedAt": "2026-10-26T15:24:58Z"
+      },
+      {
+        "file": "Student Leadership & Volunteering_02.jpg",
+        "alt": "Colourful artwork on a community display",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-05T21:28:22Z"
+      },
+      {
+        "file": "Student Leadership & Volunteering_03.jpg",
+        "alt": "Hands arranging materials at a workshop",
+        "width": 1080,
+        "height": 1920,
+        "updatedAt": "2026-11-05T21:28:32Z"
+      },
+      {
+        "file": "Student Leadership & Volunteering_04.jpg",
+        "alt": "Student demonstrating a printmaking technique",
+        "width": 1920,
+        "height": 1080,
+        "updatedAt": "2026-11-05T21:28:50Z"
+      },
+      {
+        "file": "Student Leadership & Volunteering_05.jpg",
+        "alt": "Student volunteers beside an illustrated display",
+        "width": 1920,
+        "height": 1080,
+        "updatedAt": "2026-11-05T21:28:46Z"
+      },
+      {
+        "file": "Student Leadership & Volunteering_06.jpg",
+        "alt": "Outdoor exhibition of colourful student paintings",
+        "width": 1440,
+        "height": 1080,
+        "updatedAt": "2026-10-26T15:24:50Z"
+      }
+    ]
+  }
+]

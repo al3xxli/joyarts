@@ -1,0 +1,100 @@
+{
+  "introduction": [
+    "Founded in 2013, JoyArts Studio delivers high-level foundational art training and dedicated portfolio mentorship for students seeking admission to competitive art programs and university disciplines. Beyond traditional instruction, our curriculum encompasses inclusive art therapy-informed programming, specialized workshops for individuals with special needs, and community-engaged social initiatives.",
+    "Reflecting evolving career and academic landscapes, JoyArts provides diverse volunteer opportunities—including partnerships with special needs organizations, community exhibition curation, and local outreach. This hands-on involvement prepares students not only for creative disciplines, but also for competitive entry into Health Sciences, Arts Management, and Business. We teach students to integrate visual communication, analytical creativity, and disciplined art practice to stand out and lead with empathy across all academic fields."
+  ],
+  "elsie": [
+    "Founder, Director & Principal Instructor",
+    "M.A. in Art History and Visual Culture, York University",
+    "B.A. (Spec. Hons.) in Visual Arts, York University"
+  ],
+  "hannah": [
+    "Instructor",
+    "B.F.A. in Illustration, Rhode Island School of Design (RISD)",
+    "Mediums & Specialties: Watercolor, Gouache, Oil Painting, Coloured Pencils, Charcoal, and Oil Pastels"
+  ],
+  "adjunctInstructors": [
+    "Alex: MDes at UC Berkeley, B.AS from University of Waterloo",
+    "Tong Tong: B.A. at McGill University, major in Health Sciences",
+    "Catherine: B.A. at McMaster University, major in Health Sciences",
+    "Sihan: B.A. at McMaster University, major in Health Sciences",
+    "Lily: G12, Alexander Mackenzie High School",
+    "Serena: G12, Markham District High School"
+  ],
+  "mentorship": "At JoyArts Studio, our adjunct instructors bring a unique, deeply personal connection to our learning community—they are former JoyArts students who grew up within our curriculum. Now pursuing higher education in top university programs across Visual Arts, Life/Health Sciences, and Arts Management, they return to mentor the next generation. By combining their foundational studio training with their current academic and professional pursuits, our instructors offer students relevant guidance, peer mentorship, and real-world insight into diverse career pathways.",
+  "birds": "A unique and integral part of our studio environment are Nini and Sky, our trained resident therapy pets. Nini, a talkative six-year-old female African Grey, and Sky, a friendly one-and-a-half-year-old female Monk Parakeet who loves to perch on students' shoulders while they draw, provide comfort and emotional support. Together, they create a welcoming space for special needs students navigating social anxiety and language delays, helping them build confidence and freely express themselves through art.",
+  "programs": [
+    {
+      "section": "classes",
+      "title": "Drawing Fundamentals",
+      "description": "In this class, students are taught the fundamentals of drawing such as shape, measurement, scale, value and perspective. Instructors help students improve on their observational abilities in order to confidently create accurate depictions. Class projects use still life motifs to introduce students to the basic elements of drawing, and develops their awareness of the many factors which go into the creation of a finished drawing.",
+      "image": "/media/studio/drawing.jpg",
+      "alt": "Graphite portrait of a girl in a hat",
+      "gallery": "df"
+    },
+    {
+      "section": "classes",
+      "title": "Creative Exploration",
+      "description": "In this fun class, students explore and develop their skills in different artistic forms and media by adding their own personal touches to the artwork. This course focuses on the creative process, idea generation and personal expression.",
+      "image": "/media/studio/creative.jpg",
+      "alt": "Student illustration in mixed media",
+      "gallery": "cd"
+    },
+    {
+      "section": "classes",
+      "title": "Portfolio Development",
+      "description": "Geared towards those looking to apply to high school and university art programs, the portfolio development course aims to help students showcase the best of their skills. Exploratory directions such as sculpture and various means of design will be taught. Students will also learn more about the elements of art and how to utilize the proper skills for their preferred methods of creativity.",
+      "image": "/media/studio/portfolio.jpg",
+      "alt": "Selection of student portfolio pieces",
+      "gallery": "pd"
+    },
+    {
+      "section": "workshops",
+      "title": "Watercolour Workshop",
+      "description": "Students learn important watercolour techniques such as wet on wet paint, wet on dry techniques, paintings overworked, and colour theory. The step-by-step lessons begin with getting comfortable with basic tools and encourages the investigation of colour and value strategies as well as taking inspiration from nature and adjusting precedent images for better compositions.",
+      "image": "/media/studio/watercolour.jpg",
+      "alt": "Watercolour study of a winding river",
+      "gallery": "wp"
+    },
+    {
+      "section": "workshops",
+      "title": "Oil Painting Workshop",
+      "description": "Taught by Ms. Hannah, this workshop is for students who already have a basic understanding of painting and who wish to develop their skills further. Various subject matters will be explored including animals, landscapes, still life and masterpiece precedents. Group critiques will be supplemented by one-on-one instruction.",
+      "image": "/media/studio/oil.jpg",
+      "alt": "Oil painting of a purple and pink bouquet",
+      "gallery": "op"
+    },
+    {
+      "section": "workshops",
+      "title": "Coloured Pencil Workshop",
+      "description": "With the help of Prismacolor Premium pencils, students are taught blending techniques which guarantee immediate success in creating realistic drawings. Development of natural colours via techniques such as layering and burnishing is also emphasized in this workshop.",
+      "image": "/media/studio/pencil.jpg",
+      "alt": "Coloured-pencil tiger in tall grass",
+      "gallery": "cp"
+    },
+    {
+      "section": "workshops",
+      "title": "Outdoor Painting Workshop",
+      "description": "Every summer students are encouraged to explore the outdoors and participate in live sketching and painting classes held in various parks around Ontario. Students are taught how to quickly capture the spirit and essence of a dynamic landscape or subject while learning about natural light. Field trips to AGO and the Power Plant Gallery are always enjoyed by students and it becomes a fun yet educational experience to see what art has been like through different periods in time.",
+      "image": "/artwork/OUTDOOR PAINTING WORKSHOP_01.jpg",
+      "alt": "A painting on an easel outdoors",
+      "gallery": "outdoor"
+    },
+    {
+      "section": "exhibitions",
+      "title": "Art Exhibitions and Community",
+      "description": "JoyArts has curated six public art exhibitions and built local partnerships with NorthStar Special Needs Society for special needs children and families, connecting our student creations directly with the broader community. As a major sponsor supporting the special needs community, JoyArts provides a platform for students to contribute their original artwork in service of meaningful social causes.",
+      "image": "/artwork/Art Exhibitions and Community_03.jpg",
+      "alt": "Student artwork displayed on the exhibition wall",
+      "gallery": "community"
+    },
+    {
+      "section": "exhibitions",
+      "title": "Student Leadership & Volunteering",
+      "description": "High school students gain practical leadership experience by volunteering in exhibition installation, curatorial work, and community event coordination.",
+      "image": "/artwork/Student Leadership & Volunteering_05.jpg",
+      "alt": "Student volunteers with artwork at a community event",
+      "gallery": "leadership"
+    }
+  ]
+}
